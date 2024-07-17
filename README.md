@@ -1,7 +1,6 @@
 - 👋 Hi, I’m @russ-doucet
-- 👀 I’m interested in Algorithm Design, Aritificial Intelligence, and Mathematics!
+- 👀 I’m interested in Full Stack Web Development
 - 🌱 I’m currently learning Software Specification, Front-End Development with React and Project Management.
-- 💞️ I’m looking to collaborate with other motivated programmers!
 - 📫 How to reach me : russell.doucet@icloud.com 
 
 <!---
